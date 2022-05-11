@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* I Love Webdevelopment*
+_ And Love Too Learning Programing Languages_
+__And Try To Always Develop My Self And Skills All The Time__
