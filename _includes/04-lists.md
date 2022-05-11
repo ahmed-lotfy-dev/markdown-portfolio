@@ -3,6 +3,6 @@
 2. CSS
   * Bootstrap
   * TailwindCSS
-4. Javascript
+3. Javascript
   * NodeJS
   * React
